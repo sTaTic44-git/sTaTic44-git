@@ -22,7 +22,7 @@
 <a href="https://twitter.com/static_en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="static_en" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prince-koundal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-koundal" height="30" width="40" /></a>
 <a href="https://instagram.com/static_44_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="static_44_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/static_energy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="static_energy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@static_energy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="static_energy" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/pzMFGuNMc8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/pzMFGuNMc8" height="30" width="40" /></a>
 </p>
 
